@@ -10,3 +10,5 @@ Make sure your local environment has python installed. If not, you can install i
  ```bash
     python detect_gender_webcam.py
 ```
+## Stop Application
+Press "Q" on your keyboard to stop application
