@@ -1,4 +1,4 @@
-tensorflow
-numpy
-open-cv
-cvlib
+tensorflow==2.12.0
+numpy==1.23.5
+open-cv==4.7.0
+cvlib==0.2.7
